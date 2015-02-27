@@ -16,7 +16,22 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentsDirectory = [paths objectAtIndex:0];
+    NSString *filePath = [documentsDirectory stringByAppendingPathComponent: @"userInfo.bin"];
+    
+    UIViewController *rootViewController = [UIViewController new];
+    UIStoryboard *storyboard = self.window.rootViewController.storyboard;
+    
+    if ([NSKeyedUnarchiver unarchiveObjectWithFile:filePath] != nil) {
+        rootViewController = [storyboard instantiateViewControllerWithIdentifier:@"registerController"];
+    } else {
+        rootViewController = [storyboard instantiateViewControllerWithIdentifier:@"posts"];
+    }
+    self.window.rootViewController = rootViewController;
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 
