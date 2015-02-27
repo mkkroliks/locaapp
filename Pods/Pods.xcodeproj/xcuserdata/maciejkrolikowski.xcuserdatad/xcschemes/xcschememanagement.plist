@@ -8,49 +8,116 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 		<key>Pods-Mantle.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 		<key>Pods-locaapp-AFNetworking.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
 		</dict>
 		<key>Pods-locaapp-Mantle.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 		<key>Pods-locaapp.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 		<key>Pods-locaappTests-AFNetworking.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>7</integer>
 		</dict>
 		<key>Pods-locaappTests-Mantle.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
 		</dict>
 		<key>Pods-locaappTests.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>6</integer>
 		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>00E96FD5FE90347C39029D81</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>26C9E3BF8172DE7202A25318</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>31F9A7D6A984C5442695D791</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3420F1A91D2761BE0E14C8AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9D4BBEF3739CC357303503D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5D3ACB5C05FC8D28AA01C25</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFBDE41B3F5B008BE057E053</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B7F97E6B82C8EC36847C14D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CBB1D6E0AF4348D73CA54EFB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E3405EC8A978A7634ECB1DA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE23C278727CCF470E43E9C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F94A176C819CA57D37DBD256</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

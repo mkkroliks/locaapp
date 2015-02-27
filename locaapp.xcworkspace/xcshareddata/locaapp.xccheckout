@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15A5DC4C-87D9-4ECD-A8FA-1B53D0BE25AE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>locaapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>790B3A7FCD69E287AE58229AB3541BCA145AD849</key>
+		<string>https://github.com/mkkroliks/locaapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>locaapp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>790B3A7FCD69E287AE58229AB3541BCA145AD849</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mkkroliks/locaapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>790B3A7FCD69E287AE58229AB3541BCA145AD849</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>790B3A7FCD69E287AE58229AB3541BCA145AD849</string>
+			<key>IDESourceControlWCCName</key>
+			<string>locaapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
